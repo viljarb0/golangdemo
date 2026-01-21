@@ -1,4 +1,4 @@
-module github.com/viljarb0/golangdemo/somemodule
+module github.com/viljarb0/golangdemo
 
 go 1.24.0
 
