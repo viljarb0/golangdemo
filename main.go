@@ -46,7 +46,7 @@ func serveHTML(w http.ResponseWriter, filename string) {
 
 func main() {
 	u1 := user{
-		name: "негр",
+		name: "myname",
 		age:  33,
 	}
 	var addr string = "127.0.0.1:8080"
